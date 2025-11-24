@@ -10,4 +10,8 @@ void main() {
   print (" a > b : ${a>b}");
   print (" a < b : ${a<b}");
   print (" a <= b : ${a<=b}");
+
+
+  print ("a > b ||  x > y : ${a>b || x>y}");  // or -- veya  -- tek biri true dönse true dönmesi için yeterlidir.
+  print ("a > b &&  x > y : ${a>b && x>y}");  // and --- ve -- true dönmesi için ikisinin de true olması lazım
 }

@@ -1,6 +1,6 @@
-# test_proje
+# Dart - Flutter Öğreniyorum
 
-A new Flutter project.
+Bu projede lib dosyasının altında temel kavramları öğreniyorum. Gün gün güncelleyeceğim projenin sonunda bir Android projesi ortaya koyulacaktır. 
 
 ## Getting Started
 

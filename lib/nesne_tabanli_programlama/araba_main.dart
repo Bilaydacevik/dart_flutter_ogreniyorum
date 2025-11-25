@@ -15,5 +15,11 @@ void  main() {
   print("Renk: ${skoda.renk}");
   print("Hız: ${skoda.hiz}");
   print("Çalışıyor mu: ${skoda.calisiyorMu}");
+  print("-----------------------");
+  sahin.bilgiAl();   // bu şekilde fonksiyon oluşturup yapmak daha kolay olacaktır.
+  sahin.calistir();
+  sahin.bilgiAl();
+  bmw.hizlan(100);
+  bmw.bilgiAl();
 
 }

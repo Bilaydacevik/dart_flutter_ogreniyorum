@@ -16,12 +16,12 @@ Projenin sonunda tam işlevsel bir Android uygulaması ortaya çıkacaktır.
 --En sonunda çalışır bir Android uygulaması geliştirmek
 
 ## Günlük İlerleme
+Flutter öğrenme sürecimde her gün yeni bir konu üzerine çalışıyorum. Aşağıdaki tablo, öğrendiklerimi ve o gün işlediğim konuların kısa özetini içermektedir.
 
 | Gün | Konu                  | Açıklama                                |
 | --- | --------------------- | --------------------------------------- |
-| 1   | Dart Temelleri        | Dart Giriş , Değişkenler, Sabitler, Tür 
-                                Dönüşümü
-| 2   | Temel Programlama     | Karşılaştırma Operatörleri, if, switch, döngüler
-                                  Nesne tabanlı programlama giriş       |
-| 3   |         |   |
+| 1   | Dart Temelleri        | Değişkenler, veri tipleri, fonksiyonlar |
+| 2   | Flutter Widget Yapısı | Stateless ve Stateful widget farkı      |
+| 3   | Layout Widgets        | Row, Column, Container, Padding, Stack  |
 | ... | ...                   | Gün geçtikçe eklenecek                  |
+

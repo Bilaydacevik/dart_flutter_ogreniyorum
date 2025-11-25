@@ -1,16 +1,27 @@
-# Dart - Flutter Öğreniyorum
+# Flutter Öğrenme Projesi
 
-Bu projede lib dosyasının altında temel kavramları öğreniyorum. Gün gün güncelleyeceğim projenin sonunda bir Android projesi ortaya koyulacaktır. 
+Bu proje, Flutter ve Dart öğrenme sürecimi adım adım belgelediğim bir çalışma alanıdır.
+lib/ klasörü altında her gün yeni bir konsept öğreniyor, küçük örnekler ve mini uygulamalar geliştiriyorum.
+Projenin sonunda tam işlevsel bir Android uygulaması ortaya çıkacaktır.
 
-## Getting Started
+## Amaç
+--Flutter’ın temel widget yapısını öğrenmek
 
-This project is a starting point for a Flutter application.
+--Dart programlama diline hakim olmak
 
-A few resources to get you started if this is your first Flutter project:
+--State management, navigation, API kullanımını deneyimlemek
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+--Günlük ilerlemeleri kaydederek öğrenme sürecini somutlaştırmak
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--En sonunda çalışır bir Android uygulaması geliştirmek
+
+## Günlük İlerleme
+
+| Gün | Konu                  | Açıklama                                |
+| --- | --------------------- | --------------------------------------- |
+| 1   | Dart Temelleri        | Dart Giriş , Değişkenler, Sabitler, Tür 
+                                Dönüşümü
+| 2   | Temel Programlama     | Karşılaştırma Operatörleri, if, switch, döngüler
+                                  Nesne tabanlı programlama giriş       |
+| 3   |         |   |
+| ... | ...                   | Gün geçtikçe eklenecek                  |

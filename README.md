@@ -20,8 +20,8 @@ Flutter öğrenme sürecimde her gün yeni bir konu üzerine çalışıyorum. A�
 
 | Gün | Konu                  | Açıklama                                |
 | --- | --------------------- | --------------------------------------- |
-| 1   | Dart Temelleri        | Değişkenler, veri tipleri, fonksiyonlar |
-| 2   | Flutter Widget Yapısı | Stateless ve Stateful widget farkı      |
-| 3   | Layout Widgets        | Row, Column, Container, Padding, Stack  |
+| 1   | Dart Temelleri        | Değişkenler, sabitler, tür dönüşümü     |
+| 2   | Temel Programlama     | if, switch , operatörler, NTP           |
+| 3   |                       |                                         |
 | ... | ...                   | Gün geçtikçe eklenecek                  |
 
